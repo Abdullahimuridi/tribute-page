@@ -52,9 +52,6 @@ ul li {
 }
 
 @media (max-width: 800px) {
-  body {
-    /* background-color: red; */
-  }
 
   h1 {
     font-size: 2.2em;
